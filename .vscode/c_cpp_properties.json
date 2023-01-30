@@ -1,0 +1,74 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/include",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/src",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/Rotary",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/Grove - LCD RGB Backlight",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/Low-Power-master",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/DS3231",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/variants/standard",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/SwitchEncodeur/src",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/DS3231",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/Grove - LCD RGB Backlight",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/LiquidCrystal_I2C",
+                "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/Low-Power",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/include",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/src",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/Rotary",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/Grove - LCD RGB Backlight",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/Low-Power-master",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/DS3231",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/lib/SwitchEncodeur/src",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/DS3231",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/Grove - LCD RGB Backlight",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/LiquidCrystal_I2C",
+                    "c:/Users/natet/OneDrive/Documents/PlatformIO/Projects/Porte automatique poules/.pio/libdeps/arduino/Low-Power",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/natet/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60106",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/natet/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

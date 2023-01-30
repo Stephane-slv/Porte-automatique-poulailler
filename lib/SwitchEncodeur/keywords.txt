@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map SwitchEncoder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SwitchEncoder	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+process	KEYWORD2
+count	KEYWORD2
+resetCount	KEYWORD2
+setCount	KEYWORD2
+button	KEYWORD2
+
+
